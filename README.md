@@ -9,7 +9,7 @@
 ## How to install
 
 ```bash
-$ pip install git+https://github.com/iitzco/faced.git
+$ pip install git+https://github.com/acid1789/faced.git
 ```
 
 > Soon to be available on `PyPI`.
